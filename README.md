@@ -1,6 +1,6 @@
 # sasori
 
-sasori is a 1-to-1 rewrite of enemybot using rust. 
+Bu kod eğitim amaçlıdır  kulanımı şu şekildedir:
 
 ## building
 
